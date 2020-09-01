@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Luxery Bed" ,
+        "img" : "https://ii1.pepperfry.com/media/catalog/product/t/o/1100x1210/torrie-king-size-bed-with-storage-by--home-torrie-king-size-bed-with-storage-by--home-hm8eul.jpg" ,
+        "price" : "£300.00" 
+    },
+    {
+        "name" : "Modern Bed" ,
+        "img" : "https://ii1.pepperfry.com/media/catalog/product/t/o/800x880/torrie-queen-bed-with-headboard---box-storage-in-black-colour-by--home-torrie-queen-bed-with-headboa-5rhnd8.jpg" ,
+        "price" : "£1250.00" 
+    },
+    {
+        "name" : "Comfort Bed" ,
+        "img" : "https://secure.img1-fg.wfcdn.com/im/44221690/compr-r85/8224/82248723/desoto-upholstered-storage-standard-bed.jpg" ,
+        "price" : "£450.00" 
+    },
+    {
+        "name" : "Luxery Bed" ,
+        "img" : "https://www.amartfurniture.com.au/on/demandware.static/-/Sites-amart-master-catalog/default/dwa90aa1d1/images/hi-res/613350001_020_03192019.jpg" ,
+        "price" : "£300.00" 
+    },
+    {
+        "name" : "Modern Bed" ,
+        "img" : "https://www.mocka.com.au/media/product/de/peyton-queen-bed-light-grey-color-light-grey-f2.jpg?11-11-2019-22-06-20" ,
+        "price" : "£250.00" 
+    },
+    {
+        "name" : "Comfort Bed" ,
+        "img" : "https://secure.img1-fg.wfcdn.com/im/44221690/compr-r85/8224/82248723/desoto-upholstered-storage-standard-bed.jpg" ,
+        "price" : "£450.00" 
+    },
+    {
+        "name" : "Luxery Bed" ,
+        "img" : "https://www.amartfurniture.com.au/on/demandware.static/-/Sites-amart-master-catalog/default/dwa90aa1d1/images/hi-res/613350001_020_03192019.jpg" ,
+        "price" : "£300.00" 
+    },
+    {
+        "name" : "Modern Bed" ,
+        "img" : "https://www.mocka.com.au/media/product/de/peyton-queen-bed-light-grey-color-light-grey-f2.jpg?11-11-2019-22-06-20" ,
+        "price" : "£250.00" 
+    },
+    {
+        "name" : "Comfort Bed" ,
+        "img" : "https://secure.img1-fg.wfcdn.com/im/44221690/compr-r85/8224/82248723/desoto-upholstered-storage-standard-bed.jpg" ,
+        "price" : "£1450.00" 
+    },
+    {
+        "name" : "Luxery Bed" ,
+        "img" : "https://www.amartfurniture.com.au/on/demandware.static/-/Sites-amart-master-catalog/default/dwa90aa1d1/images/hi-res/613350001_020_03192019.jpg" ,
+        "price" : "£300.00" 
+    },
+    {
+        "name" : "Modern Bed" ,
+        "img" : "https://www.mocka.com.au/media/product/de/peyton-queen-bed-light-grey-color-light-grey-f2.jpg?11-11-2019-22-06-20" ,
+        "price" : "£250.00" 
+    },
+    {
+        "name" : "Comfort Bed" ,
+        "img" : "https://secure.img1-fg.wfcdn.com/im/44221690/compr-r85/8224/82248723/desoto-upholstered-storage-standard-bed.jpg" ,
+        "price" : "£450.00" 
+    }
+]

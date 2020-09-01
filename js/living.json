@@ -1,0 +1,63 @@
+[
+    {
+        "name" : "Luxery Living" ,
+        "img" : "https://cdn.vox-cdn.com/thumbor/NzShPzTXC6Dj5MpWShGp9Z8stkI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11545789/House_Calls_Soldi_Caillier_Tacoma__WA_living_room_Rafael_Soldi.jpg" ,
+        "price" : "£700.00" 
+    },
+    {
+        "name" : "Modern Living" ,
+        "img" : "https://i.pinimg.com/originals/10/e3/3f/10e33f4922cbfc1dd908fdb336209670.jpg" ,
+        "price" : "£950.00" 
+    },
+    {
+        "name" : "Comfort Living " ,
+        "img" : "https://i.pinimg.com/originals/cd/e3/8c/cde38c9560c5c087b60203f5f30f5e2c.jpg" ,
+        "price" : "£1450.00" 
+    },
+    {
+        "name" : " Ikea Living" ,
+        "img" : "https://www.insplosion.com/blog/wp-content/uploads/2018/12/Scandinavian-design-10.jpg" ,
+        "price" : "£1300.00" 
+    },
+    {
+        "name" : "Luxery Living" ,
+        "img" : "https://cdn.vox-cdn.com/thumbor/NzShPzTXC6Dj5MpWShGp9Z8stkI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11545789/House_Calls_Soldi_Caillier_Tacoma__WA_living_room_Rafael_Soldi.jpg" ,
+        "price" : "£700.00" 
+    },
+    {
+        "name" : "Modern Living" ,
+        "img" : "https://i.pinimg.com/originals/10/e3/3f/10e33f4922cbfc1dd908fdb336209670.jpg" ,
+        "price" : "£950.00" 
+    },
+    {
+        "name" : "Comfort Living " ,
+        "img" : "https://i.pinimg.com/originals/cd/e3/8c/cde38c9560c5c087b60203f5f30f5e2c.jpg" ,
+        "price" : "£1450.00" 
+    },
+    {
+        "name" : " Ikea Living" ,
+        "img" : "https://www.insplosion.com/blog/wp-content/uploads/2018/12/Scandinavian-design-10.jpg" ,
+        "price" : "£1300.00" 
+    },
+    {
+        "name" : "Luxery Living" ,
+        "img" : "https://cdn.vox-cdn.com/thumbor/NzShPzTXC6Dj5MpWShGp9Z8stkI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11545789/House_Calls_Soldi_Caillier_Tacoma__WA_living_room_Rafael_Soldi.jpg" ,
+        "price" : "£700.00" 
+    },
+    {
+        "name" : "Modern Living" ,
+        "img" : "https://i.pinimg.com/originals/10/e3/3f/10e33f4922cbfc1dd908fdb336209670.jpg" ,
+        "price" : "£950.00" 
+    },
+    {
+        "name" : "Comfort Living " ,
+        "img" : "https://i.pinimg.com/originals/cd/e3/8c/cde38c9560c5c087b60203f5f30f5e2c.jpg" ,
+        "price" : "£1450.00" 
+    },
+    {
+        "name" : " Ikea Living" ,
+        "img" : "https://www.insplosion.com/blog/wp-content/uploads/2018/12/Scandinavian-design-10.jpg" ,
+        "price" : "£1300.00" 
+    }
+    
+]

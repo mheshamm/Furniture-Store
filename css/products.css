@@ -1,0 +1,52 @@
+body {
+    background-color: #F7F3EC;
+}
+.products-section {
+    margin-top: 70px;
+    font-family: Poppins;
+    
+}
+.product-type{
+    width: 80%;
+    margin: 10px auto ;
+    padding: 20px 0;
+    border-bottom: 1px solid white;
+}
+.head-title {
+    text-align: center;
+    letter-spacing: 4px;
+    color: rgb(255, 72, 0);
+    
+}
+
+.dark-mode{
+    background-color: #313131;
+    color: rgb(255, 242, 219);
+}
+
+.light {
+    color: #fff8ef;
+}
+
+.products{
+    width: 100%;
+}
+.dark-add{
+    background-color: #313131;
+}
+.product-img:hover  {
+    transform: scale(1.3);
+    transition: 1s;
+}
+.product-img:hover .add-item{
+    transition: ease-in-out 4s;
+}
+.pre{
+    opacity: 0.2;
+}
+
+#caro {
+    margin:  20px 0;
+    padding-top: 10px;
+}
+
